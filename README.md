@@ -18,3 +18,7 @@ python -m unittest discover
 ## Reference  
 https://literature.cdn.keysight.com/litweb/pdf/04284-97020.pdf
 
+## インストール時の注意事項
+https://www.keysight.com/main/home.jspx?cc=JP&lc=jpn
+keysightをインストールする必要あり．
+
